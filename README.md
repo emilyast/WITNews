@@ -1,3 +1,3 @@
 WITNews
 =======
-AWC Project!
+Women in Tech News Website
